@@ -129,6 +129,6 @@ Developed a machine learning model to classify iris flowers into different speci
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: **www.linkedin.com/in/ajhith-kumar-chelluru**
-- 📧 Email: **ajhithkumar@gmail.com**
+- 📧 Email: **ajhithkumar3@gmail.com**
 
 ⭐ Explore my repositories to see how I transform data into actionable insights.
