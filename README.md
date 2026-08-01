@@ -6,14 +6,14 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/ajhith-kumar-chelluru">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&labelColor=4A4A4A&logo=linkedin&logoColor=white" />
+</a>
   <a href="https://mailto:ajhithkumar3@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+    <img src="https://img.shields.io/badge/GMAIL-SAY%20HI-EA4335?style=for-the-badge&labelColor=4A4A4A&logo=gmail&logoColor=white" />
+</a>
   <a href="https://github.com/CHELLURU-AJHITH-KUMAR">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+    <img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&labelColor=4A4A4A&logo=github&logoColor=white" />
+</a>
 </p>
 
 ---
