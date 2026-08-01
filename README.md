@@ -5,14 +5,17 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ajhith-kumar-chelluru">
+  <a href="https://linkedin.com/in/ajhith-kumar-chelluru" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&labelColor=4A4A4A&logo=linkedin&logoColor=white" />
 </a>
-  <a href="https://mailto:ajhithkumar3@gmail.com">
+  <a href="https://mailto:ajhithkumar3@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/GMAIL-SAY%20HI-EA4335?style=for-the-badge&labelColor=4A4A4A&logo=gmail&logoColor=white" />
 </a>
-  <a href="https://github.com/CHELLURU-AJHITH-KUMAR">
+  <a href="https://github.com/CHELLURU-AJHITH-KUMAR" target="_blank">
     <img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&labelColor=4A4A4A&logo=github&logoColor=white" />
+</a>
+  <a href="https://wa.me/9177637361" target="_blank">
+  <img src="https://img.shields.io/badge/WHATSAPP-CHAT%20NOW-25D366?style=for-the-badge&labelColor=555555&logo=whatsapp&logoColor=white"/>
 </a>
 </p>
 
@@ -31,31 +34,40 @@ I'm an aspiring **Data Analyst** passionate about transforming raw data into mea
 
 ---
 
-## 🛠️ Tech Stack
+<h2>📊 Tech Stack</h2>
 
-### Analytics & BI
+<table>
+<tr>
+<td><b>Analytics & BI</b></td>
+<td>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/DAX-005C84?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power_Query-742774?style=for-the-badge"/>
+</td>
+</tr>
 
-<p>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/DAX-005C84?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Power_Query-742774?style=for-the-badge" />
-</p>
+<tr>
+<td><b>Programming</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=python,r" />
+</td>
+</tr>
 
-### Programming & Databases
+<tr>
+<td><b>Database</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</td>
+</tr>
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-</p>
-
-### Tools & Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs,express,docker" />
-</p>
+<tr>
+<td><b>Tools</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs,express,docker" />
+</td>
+</tr>
+</table>
 
 ---
 
@@ -96,12 +108,7 @@ Developed a machine learning model to classify iris flowers into different speci
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CHELLURU-AJHITH-KUMAR&show_icons=true&theme=github_dark&hide_border=true" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=CHELLURU-AJHITH-KUMAR&theme=github-dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHELLURU-AJHITH-KUMAR&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
@@ -126,9 +133,22 @@ Developed a machine learning model to classify iris flowers into different speci
 
 ---
 
-## 📫 Connect With Me
+<h2 align="center">🌍 Connect With Me</h2>
 
-- 💼 LinkedIn: **www.linkedin.com/in/ajhith-kumar-chelluru**
-- 📧 Email: **ajhithkumar3@gmail.com**
+<p align="center">
+  <a href="https://www.linkedin.com/in/ajhith-kumar-chelluru/" target="_blank">
+    <img src="https://img.icons8.com/color/96/linkedin.png" width="60" alt="LinkedIn"/>
+  </a>
 
-⭐ Explore my repositories to see how I transform data into actionable insights.
+  <a href="mailto:ajhithkumar3@gmail.com">
+    <img src="https://img.icons8.com/color/96/gmail-new.png" width="60" alt="Gmail"/>
+  </a>
+
+  <a href="https://wa.me/9177637361" target="_blank">
+    <img src="https://img.icons8.com/color/96/whatsapp--v1.png" width="60" alt="WhatsApp"/>
+  </a>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1400&color=00D9FF&center=true&vCenter=true&width=950&lines=Transforming+Data+into+Actionable+Insights;Power+BI+%7C+SQL+%7C+Python+%7C+PostgreSQL;Building+Interactive+Dashboards+and+Business+Intelligence+Solutions;Explore+My+Repositories+and+Projects" />
+</p>
